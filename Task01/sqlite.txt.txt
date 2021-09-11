@@ -1,0 +1,4 @@
+Версия: 3.36.0
+
+Режим вывода данных:
+ascii box column csv hyml insert json line list masqlite
